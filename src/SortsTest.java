@@ -148,12 +148,12 @@ public class SortsTest {
     public void cocktailSort() {
         Sorts test=new Sorts();
         ArrayList test1 = new ArrayList();
+        ArrayList expected = new ArrayList();
         test1.add(1);
         test1.add(-1);
         test1.add(100);
         test1.add(0);
         test.cocktailSort(test1,0,2);
-        ArrayList expected = new ArrayList();
         expected.add(-1);
         expected.add(1);
         expected.add(100);
