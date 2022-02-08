@@ -1,12 +1,12 @@
 /*
- * NAME: TODO
- * PID:  TODO
+ * NAME: Gaoying Wang
+ * PID:  A16131629
  */
  
 import java.util.ArrayList;
 
 /**
- * TODO: add class header
+ * Test the runtime of the sorting algorithms.
  */
 public class RuntimeAnalysis {
 
